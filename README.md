@@ -8,7 +8,7 @@ You know how some games hook `Alt + F4` on purpose to stop people from rage quit
 
 Yeah, that's fucked. Most people use task manager anyway, so the hook is pointless.
 
-`Alt+F4` is an explicit request - the user wants the program to close immediately.
+`Alt + F4` is an explicit request - the user wants the program to close immediately.
 
 To hook `Alt + F4` is to assume you understand what the user wants more than the user does.
 
