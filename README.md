@@ -10,7 +10,7 @@ They say it's to 'prevent people from rage quitting'. Yeah, that's fucked.
 
 Most people just use it as a shortcut, and it's frustrating when it doesn't work.
 
-Those that rage quit probably use task manager anyway, so the hook is pointless.
+Those that 'rage quit' probably use task manager anyway, so the hook is pointless.
 
 `Alt + F4` is an explicit request - the user wants the program to close immediately.
 
