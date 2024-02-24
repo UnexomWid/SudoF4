@@ -22,7 +22,7 @@ Despite its name, SudoF4 only works on Windows.
 
 Yeah the code ain't great, but it's not about that.
 
-It's about the message. No one wants shitty `Alt+F4` hooks!
+It's about the message. No one wants shitty `Alt + F4` hooks!
 
 # License <a href="https://github.com/UnexomWid/SudoF4/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
