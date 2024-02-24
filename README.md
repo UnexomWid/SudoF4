@@ -32,9 +32,13 @@ It's about the message. No one wants shitty `Alt + F4` hooks!
 
 You first need to install [Rust](https://www.rust-lang.org/).
 
-Then clone/download SudoF4 and run this in the dir:
+Then clone and install SudoF4:
 
 ```sh
+git clone https://github.com/UnexomWid/SudoF4
+
+cd SudoF4
+
 cargo install --path .
 ```
 
