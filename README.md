@@ -2,7 +2,7 @@
   <img src="public/logo.png" width="393" height="152" alt="shinobu">
 </p>
 
-# About
+# About <a href="https://www.rust-lang.org/"><img align="right" src="https://img.shields.io/badge/Rust-1.63-F74C00?logo=rust" alt="Rust 1.63" /></a>
 
 You know how some games hook `Alt + F4` on purpose to stop people from rage quitting?
 
@@ -23,6 +23,28 @@ Despite its name, SudoF4 only works on Windows.
 Yeah the code ain't great, but it's not about that.
 
 It's about the message. No one wants shitty `Alt + F4` hooks!
+
+# Installation
+
+You first need to install [Rust](https://www.rust-lang.org/).
+
+Then clone/download SudoF4 and run this in the dir:
+
+```sh
+cargo install --path .
+```
+
+# Usage
+
+Open a new cmd window and run:
+
+```sh
+sudo_f4
+```
+
+And now you can `Win + F4` all day!
+
+You have to keep SudoF4 running in the background for the shortcut to work.
 
 # License <a href="https://github.com/UnexomWid/SudoF4/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
