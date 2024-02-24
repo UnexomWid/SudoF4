@@ -24,7 +24,7 @@ No more shitty hooks. Just press `Win + F4` and the current window will be sent 
 
 Despite its name, SudoF4 only works on Windows.
 
-Yeah the code ain't great, but it's not about that.
+Yeah the code ain't special, but it's not about that.
 
 It's about the message. No one wants shitty `Alt + F4` hooks!
 
