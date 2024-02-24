@@ -4,11 +4,13 @@
 
 # About <a href="https://www.rust-lang.org/"><img align="right" src="https://img.shields.io/badge/Rust-1.63-F74C00?logo=rust" alt="Rust 1.63" /></a>
 
-You know how some games hook `Alt + F4` on purpose? They say it's to prevent people from rage quitting.
+You know how some games hook `Alt + F4` on purpose?
 
-Yeah, that's fucked. Most people just use it as a shortcut to close the game. It's frustating when the shortcut doesn't work.
+They say it's to 'prevent people from rage quitting'. Yeah, that's fucked.
 
-Those that rage quit just use task manager anyway, so the hook is pointless.
+Most people just use it as a shortcut, and it's frustrating when it doesn't work.
+
+Those that rage quit probably use task manager anyway, so the hook is pointless.
 
 `Alt + F4` is an explicit request - the user wants the program to close immediately.
 
