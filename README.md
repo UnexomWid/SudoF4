@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" width="393" height="152" alt="shinobu">
+  <img src="public/logo.png" width="393" height="152" alt="sudo_f4">
 </p>
 
 # About <a href="https://www.rust-lang.org/"><img align="right" src="https://img.shields.io/badge/Rust-1.63-F74C00?logo=rust" alt="Rust 1.63" /></a>
