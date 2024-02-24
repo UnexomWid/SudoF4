@@ -54,7 +54,7 @@ And now you can `Win + F4` all day!
 
 You have to keep SudoF4 running in the background for the shortcut to work.
 
-If it fails to close some programs, try running cmd as admin.
+If it fails to kill some programs, try running cmd as admin.
 
 # License <a href="https://github.com/UnexomWid/SudoF4/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
