@@ -4,7 +4,7 @@
 
 # About
 
-You know how some games hook `Alt+F4` on purpose to stop people from rage quitting?
+You know how some games hook `Alt + F4` on purpose to stop people from rage quitting?
 
 Yeah, that's fucked. Most people use task manager anyway, so the hook is pointless.
 
@@ -16,7 +16,7 @@ Therefore, I present to you **SudoF4**.
 
 # Yay!
 
-No more shitty hooks. Just press `Win+F4` and the current window will be sent into the depths the void: completely and utterly.
+No more shitty hooks. Just press `Win + F4` and the current window will be sent into the depths the void: completely and utterly.
 
 Despite its name, SudoF4 only works on Windows.
 
