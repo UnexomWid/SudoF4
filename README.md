@@ -16,7 +16,7 @@ Therefore, I present to you **SudoF4**.
 
 # Yay!
 
-No more shitty hooks. Just press `Win + F4` and the current window will be sent into the depths the void: completely and utterly.
+No more shitty hooks. Just press `Win + F4` and the current window will be sent into the depths of the void: completely and utterly.
 
 Despite its name, SudoF4 only works on Windows.
 
