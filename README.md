@@ -4,7 +4,7 @@
 
 # About
 
-You know how some games hook `Alt+F4` to stop people from rage quitting?
+You know how some games hook `Alt+F4` on purpose to stop people from rage quitting?
 
 Yeah, that's fucked. Most people use task manager anyway, so the hook is pointless.
 
