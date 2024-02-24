@@ -30,5 +30,7 @@ fn main() {
     })
     .unwrap();
 
+    println!("[SudoF4] Listening for Win + F4...");
+
     hkm.event_loop();
 }
