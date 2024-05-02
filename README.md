@@ -24,9 +24,7 @@ I have also seen singleplayer games that hook it, so the whole "ruining the expe
 
 `Alt + F4` is an explicit request - the user wants the program to close immediately.
 
----
-⚠ **To hook `Alt + F4` is to assume you understand what the user wants more than the user does.** ⚠
----
+#### ⚠ To hook `Alt + F4` is to assume you understand what the user wants more than the user does. ⚠
 
 Therefore, I present to you **SudoF4**.
 
