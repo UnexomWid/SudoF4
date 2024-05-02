@@ -8,13 +8,21 @@ You know how some games hook `Alt + F4` on purpose?
 
 They say it's to 'prevent people from rage quitting'. Yeah, that's fucked.
 
-Most people just use it as a shortcut, and it's frustrating when it doesn't work.
+I myself use it as a shortcut because I don't want to use my mouse and click a bunch of times to close the game. It's frustrating when it doesn't work.
 
-Those that 'rage quit' probably use task manager anyway, so the hook is pointless.
+Here's one of my [favorite comments](https://www.reddit.com/r/RocketLeague/comments/16jcpvw/comment/k27dmxl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on this topic:
+
+> Yeah everyone in the community automatically assumes mal intent and that it's people who want to rage quit mid-game.
+>
+> No, I just want to exit the game without having to use my mouse and click around on some buttons.
+>
+> It's easier and faster to alt-F4. That's why it's called a "keyboard shortcut".
+
+Those that rage quit probably have a workaround like task manager anyway, so the hook is pointless.
 
 `Alt + F4` is an explicit request - the user wants the program to close immediately.
 
-To hook `Alt + F4` is to assume you understand what the user wants more than the user does.
+**To hook `Alt + F4` is to assume you understand what the user wants more than the user does.**
 
 Therefore, I present to you **SudoF4**.
 
@@ -26,7 +34,7 @@ Despite its name, SudoF4 only works on Windows.
 
 Yeah the code ain't special, but it's not about that.
 
-It's about the message. No one wants shitty `Alt + F4` hooks!
+It's about the message. **No one wants shitty `Alt + F4` hooks!**
 
 # Installation
 
